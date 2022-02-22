@@ -13,4 +13,4 @@ _The Bacterial Foraging Algorithm (BFOA) is a well-known swarm collective intell
 
 _This paper proposes an intuitive implementation of the TS-MBFOA along with a front-end for the easy solution of constraints numerical optimization problems. The main objective is to make the algorithm more straightforward in terms of parameter calibration and visualization of results. In the literature, the solutions based on the BFOA only show the algorithm's pseudocode or the code released in some programming language. However, there is no visual tool that allows to use of the algorithm in a fast way and to implement it in any problem._ 
 
-### [**Continued...**](https://bit.ly/tsmbfoagui "Continued").
+### [_**Continued...**_](https://bit.ly/tsmbfoagui "Continued").
